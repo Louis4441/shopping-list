@@ -1,3 +1,6 @@
 - Bacon
 - Eggs
 - Playstation
+- Bell peppers
+- Salt
+- Pan
